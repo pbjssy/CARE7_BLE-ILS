@@ -1,0 +1,7 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\Beacon",
+        "${workspaceFolder}\\central_MCU",
+        "${workspaceFolder}\\pls"
+    ]
+}
