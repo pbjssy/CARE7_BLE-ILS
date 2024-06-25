@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "my_first_blinky",
+			"path": "../../my_first_blinky"
+		}
+	],
+	"settings": {}
+}
