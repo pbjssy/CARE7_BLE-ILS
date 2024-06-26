@@ -1,0 +1,68 @@
+.care-office-1b {
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 100%;
+    border: 1px solid black;
+    font-family: 'Poppins';
+    /* font-size: 5vh; */
+    color: white;
+    text-align: center;
+}
+
+.care-office-hallway-1b {
+    grid-area: 8 / 1 / 11 / 21;
+    background-color: #706e6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.care-office-lobby-1b {
+    grid-area: 1 / 17 / 8 / 21;
+    background-color: #E5B670;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.care-office-lobby-door-1b {
+    grid-area: 7 / 18 / 8 / 19;
+    display: flex;
+    justify-content: center;
+    border-bottom: 3px solid white;
+}
+
+.care-office-room-1-1b {
+    grid-area: 1 / 6 / 8 / 17;
+    background-color: #644800;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.care-office-room-1-door-1b {
+    grid-area: 4 / 16 / 5 / 17; 
+    display: flex;
+    justify-content: center;
+    border-right: 3px solid white;
+}
+
+.care-office-room-2-1b {
+    grid-area: 1 / 1 / 8 / 6;
+    background-color: #644800;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.care-office-room-2-door-1b {
+    grid-area: 4 / 5 / 5 / 6;
+    display: flex;
+    justify-content: center;
+    border-right: 3px solid white;
+}
+

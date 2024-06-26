@@ -1,0 +1,8 @@
+.app-container-1b {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+}

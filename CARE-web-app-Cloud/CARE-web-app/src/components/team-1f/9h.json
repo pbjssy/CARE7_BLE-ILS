@@ -1,0 +1,319 @@
+[
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:51:18.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 11.1,
+    "y_location": 1.0772727272727274
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:51:36.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 9.068181818181818,
+    "y_location": 3.040909090909091
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:51:53.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 9.668181818181818,
+    "y_location": 3.6545454545454548
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:52:20.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 9.131818181818181,
+    "y_location": 2.3136363636363635
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:52:29.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 11.181818181818182,
+    "y_location": 3.422727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:52:38.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 7.295454545454546,
+    "y_location": 1.6227272727272728
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:53:00.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 10.404545454545454,
+    "y_location": 2.9454545454545453
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:53:18.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 2.1,
+    "y_location": 1.0772727272727274
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:53:36.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 7.068181818181818,
+    "y_location": 3.040909090909091
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:53:53.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 7.668181818181818,
+    "y_location": 3.6545454545454548
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:54:20.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 6.131818181818181,
+    "y_location": 2.3136363636363635
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:54:29.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 5.181818181818182,
+    "y_location": 3.422727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:54:38.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 3.295454545454546,
+    "y_location": 1.6227272727272728
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xA123",
+    "local_time": "2024-05-30T08:55:00.000Z",
+    "created_at": "2024-05-31T15:18:42.000Z",
+    "x_location": 3.404545454545454,
+    "y_location": 2.9454545454545453
+  },
+  
+
+
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:50:39.000Z",
+    "x_location": 6.572727272727272,
+    "y_location": 2.6454545454545455
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:51:36.000Z",
+    "x_location": 3.1772727272727272,
+    "y_location": 2.2772727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:51:53.000Z",
+    "x_location": 5.468181818181818,
+    "y_location": 2.359090909090909
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:51:59.000Z",
+    "x_location": 2.959090909090909,
+    "y_location": 2.3045454545454547
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:52:20.000Z",
+    "x_location": 6.15,
+    "y_location": 2.4545454545454546
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:52:29.000Z",
+    "x_location": 2.536363636363636,
+    "y_location": 2.2636363636363637
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:52:38.000Z",
+    "x_location": 7.254545454545455,
+    "y_location": 2.918181818181818
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:52:55.000Z",
+    "x_location": 6.7636363636363637,
+    "y_location": 2.6636363636363637
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:11.000Z",
+    "x_location": 5.918181818181818,
+    "y_location": 4.254545454545455
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:23.000Z",
+    "x_location": 4.422727272727273,
+    "y_location": 4.918181818181818
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:32.000Z",
+    "x_location": 2.359090909090909,
+    "y_location": 2.359090909090909
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:39.000Z",
+    "x_location": 1.181818181818182,
+    "y_location": 2.6454545454545455
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:45.000Z",
+    "x_location": 3.184090909090909,
+    "y_location": 3.272727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xB123",
+    "local_time": "2024-05-30T08:53:57.000Z",
+    "x_location": 3.422727272727273,
+    "y_location": 4.3454545454545452
+  },
+  
+
+
+
+
+  
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:51:36.000Z",
+    "x_location": 2.3454545454545452,
+    "y_location": 1.9636363636363636
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:51:53.000Z",
+    "x_location": 3.184090909090909,
+    "y_location": 2.359090909090909
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:51:59.000Z",
+    "x_location": 3.368181818181818,
+    "y_location": 2.0863636363636364
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:52:20.000Z",
+    "x_location": 1.9363636363636363,
+    "y_location": 2.5090909090909093
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:52:29.000Z",
+    "x_location": 7.445454545454545,
+    "y_location": 2.9318181818181817
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:52:38.000Z",
+    "x_location": 5.304545454545455,
+    "y_location": 3.272727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:52:47.000Z",
+    "x_location": 7.077272727272727,
+    "y_location": 3.6136363636363638
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:52:59.000Z",
+    "x_location": 8.668181818181818,
+    "y_location": 4.372727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:11.000Z",
+    "x_location": 9.9318181818181817,
+    "y_location": 3.568181818181818
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:23.000Z",
+    "x_location": 11.181818181818182,
+    "y_location": 3.077272727272727
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:32.000Z",
+    "x_location": 9.368181818181818,
+    "y_location": 3.272727272727273
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:39.000Z",
+    "x_location": 9.272727272727273,
+    "y_location": 4.5090909090909093
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:45.000Z",
+    "x_location": 7.295454545454546,
+    "y_location": 3.9318181818181817
+  },
+  {
+    "topic": "UPCARE/UNDERGRAD/BLE_ILS",
+    "source": "0xD123",
+    "local_time": "2024-05-30T08:53:57.000Z",
+    "x_location": 5.959090909090909,
+    "y_location": 2.8136363636363635
+  }
+]

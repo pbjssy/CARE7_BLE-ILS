@@ -1,0 +1,59 @@
+.data-tiles-container-1b {
+    width: 30%;
+    max-height: auto;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Helvetica';
+    display: flex;
+    flex-direction: column;
+    padding: 0.2em;
+    background-color: var(--orange);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+/* .sensor-data-info-1b {
+    border: 1px solid black;
+} */
+
+.data-tiles-collection-1b {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    height: 100%;
+}
+
+.loading-1b {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.grafana-portal-1b{
+    color: white;
+}
+
+.grafana-portal-text-1b {
+    transition: transform 0.5s ease-in-out;
+}
+
+.grafana-portal-text-1b:hover {
+    transform: scale(1.05);
+}
+
+.compass-1b {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+
+@media (max-width: 1000px) {
+    .data-tiles-container-1b {
+        width: 100%;
+    }
+}

@@ -1,0 +1,59 @@
+@keyframes SlideFromLeft {
+    0% {
+        margin-left: -100%;
+        opacity: 0;
+    }
+
+    100% {
+        margin-left: 0;
+        opacity: 1;
+    }
+}
+
+.homepage{
+    background-image: url('../assets/background-image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.homepage-content {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5em;
+}
+
+.title{
+    border-left: 2px solid rgb(108, 108, 108);
+    width: 75%;
+    padding: 30px;
+    color: rgb(66, 66, 66);
+    animation: FadeIn 0.75s ease-in-out;
+}
+
+.title-text{
+    font-family: Lato, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.title-description{
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    width: 90%;
+}
+
+@media (max-width: 800px) {
+    .title {
+        width: 100%;
+        border: none;
+    }
+    .title-text {
+        font-size: 2.5em;
+        margin-bottom: 0.5em;
+    }
+}
