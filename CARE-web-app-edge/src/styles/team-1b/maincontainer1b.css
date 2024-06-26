@@ -1,0 +1,25 @@
+.main-container-1b {
+    width: 100%;
+    height: inherit;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+}
+
+.floorplan-container-1b {
+    display: flex;
+    width: 70%;
+    padding: 0.2em;
+    font-size: 2em;
+}
+
+@media (max-width: 1000px) {
+    .main-container-1b {
+        flex-direction: column;
+    }
+
+    .floorplan-container-1b {
+        width: 100%;
+        font-size: 1.5em;
+    }
+}

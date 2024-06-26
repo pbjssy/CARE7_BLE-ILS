@@ -1,0 +1,31 @@
+@keyframes FadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 100;
+    }
+}
+
+.data-tile-1b {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 7px;
+    padding: 5px;
+    width: 100%;
+    animation: FadeIn 0.5s ease-in-out;
+}
+
+.data-tile-pollutant-1b {
+    /* border: 1px solid blue; */
+    width: 40%;
+}
+
+.data-tile-value-1b {
+    /* border: 1px solid red; */
+    width: 60%;
+}

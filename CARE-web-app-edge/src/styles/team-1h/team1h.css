@@ -1,0 +1,129 @@
+#web-title-1h {
+    font-family: Helvetica;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+.app-container-1h {
+    border: 1px solid black;
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1em;
+}
+
+.main-container-1h {
+    width: 100%;
+    height: inherit;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    text-align: center;
+    height: auto;
+}
+
+.heatmap-container-1h {
+    display: flex;
+    width: 60%;
+    height: auto;
+    padding: 0.2em;
+    font-size: 2em;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: var(--care-blue);
+}
+
+.bus-img-1h {
+    width: 100%;
+    padding: 10px;
+}
+
+.bus-map-1h {
+    width: 100%;
+    height: 100%;
+}
+
+.outdoor-map-container-1h {
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+
+.status-container-1h {
+    display: flex;
+    width: 20%;
+    padding: 0.2em;
+    /* border: 1px solid black; */
+}
+
+.table-container-1h {
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    /* border: 1px solid black; */
+}
+
+#poor {
+	background-color:red;
+	color: white;
+}
+
+#sltpoor {
+	background-color: orange;
+	color: white;
+}
+
+#moderate {
+	background-color: yellow;
+}
+
+#good {
+	background-color: green;
+	color: white;
+}
+
+#occu {
+	background-color:blue;
+	color: white;
+}
+
+.data-tile-1h {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 7px;
+    padding: 5px;
+}
+
+.tile-container-1h {
+    width: 100%;
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Helvetica';
+    display: flex;
+    flex-direction: column;
+    padding: 0.2em;
+}
+
+.stat-container-1h {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.data-tile-pollutant-1h {
+    width: 40%;
+}
+
+.data-tile-value-1h {
+    width: 60%;
+}
+

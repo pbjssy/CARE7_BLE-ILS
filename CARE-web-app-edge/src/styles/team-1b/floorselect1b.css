@@ -1,0 +1,25 @@
+.floor-select-1b {
+    min-width: 20%;
+    /* max-width: 20%; */
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--orange);
+    color: white;
+    font-family: 'Poppins';
+    cursor: pointer;
+}
+
+.floor-select-1b option {
+    border: none;
+    padding: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+@media (max-width: 800px) {
+    .floor-select-1b {
+        width: 90%;
+    }
+}
+

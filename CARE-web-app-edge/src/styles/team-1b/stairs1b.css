@@ -1,0 +1,50 @@
+.stairs-1b {
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 100%;
+    border: 1px solid black;
+    font-family: 'Poppins';
+    color: white;
+    text-align: center;
+    background-color: #999292;
+}
+
+.stairs-platform-1b {
+    grid-area: 1 / 6 / 4 / 16;
+    background-color: #706e6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.stairs-hallway-1b {
+    grid-area: 8 / 1 / 11 / 21;
+    background-color: #706e6e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.stairs-to-platform-1b {
+    grid-area: 4 / 6 / 8 / 10;
+    background-color: #E5B670;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.stairs-to-2nd-floor-1b {
+    grid-area: 4 / 12 / 8 / 16;
+    background-color: #E5B670;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
